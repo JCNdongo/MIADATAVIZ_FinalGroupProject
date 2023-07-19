@@ -16,7 +16,7 @@ Raw data Retrieval (2020)
 
 5. We created a Python file (Foreign_Aid_API.ipynb) in which we used the API to retrieve the U.S. Trade Data and exported the data as a .csv file that we named "foreign_aid_2020_aggregated.csv" and saved it in the StarterFiles folder.
 
-6. We cleaned all three files to remove missing data and ensure uniformity and saved them respectively as "COVID.csv", "Gender.csv", and "Trade.csv" in the same folder. 
+6. We cleaned all three files to remove missing data and ensure uniformity and saved them respectively as "COVID.csv", "Gender.csv", and "Trade.csv" in a different folder named "CleanData". 
 
 
 Data Preparation:
