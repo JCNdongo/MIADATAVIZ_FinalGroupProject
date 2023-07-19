@@ -1,0 +1,142 @@
+Country_Code,Income,Income_Code,Agency_Name,Agency_Acronym,agency_code
+AGO,Lower Middle Income,2,Department of Agriculture ,USDA,18
+ALB,Upper Middle Income,3,Department of Commerce ,DOC,11
+ARG,Upper Middle Income,3,Trade and Development Agency ,TDA,15
+ARM,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+AZE,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+BEN,Low Income,1,U.S. Government ,USGOV,16
+BGD,Lower Middle Income,2,U.S. Agency for International Development ,USAID,17
+BGR,Upper Middle Income,3,Overseas Private Investment Corporation ,OPIC,14
+BIH,Upper Middle Income,3,Trade and Development Agency ,TDA,15
+BOL,Lower Middle Income,2,U.S. Agency for International Development ,USAID,17
+BRA,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+BWA,Upper Middle Income,3,U.S. Government ,USGOV,16
+CHL,High Income,4,Trade and Development Agency ,TDA,15
+CHN,Upper Middle Income,3,Environmental Protection Agency ,EPA,12
+CIV,Lower Middle Income,2,U.S. Government ,USGOV,16
+CMR,Lower Middle Income,2,Trade and Development Agency ,TDA,15
+COD,Low Income,1,Department of Agriculture ,USDA,18
+COL,Upper Middle Income,3,Overseas Private Investment Corporation ,OPIC,14
+CRI,Upper Middle Income,3,U.S. Government ,USGOV,16
+CUB,Upper Middle Income,3,Department of Agriculture ,USDA,18
+DOM,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+ECU,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+EGY,Lower Middle Income,2,Department of Commerce ,DOC,11
+ERI,Low Income,1,Department of Agriculture ,USDA,18
+ETH,Low Income,1,Department of Agriculture ,USDA,18
+GEO,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+GHA,Lower Middle Income,2,U.S. Government ,USGOV,16
+GIN,Low Income,1,Department of Agriculture ,USDA,18
+GTM,Upper Middle Income,3,Department of Homeland Security ,DHS,10
+GUY,Upper Middle Income,3,Department of Agriculture ,USDA,18
+HND,Lower Middle Income,2,U.S. Government ,USGOV,16
+HRV,High Income,4,Export-Import Bank of the United States ,EXIM,13
+HTI,Low Income,1,U.S. Agency for International Development ,USAID,17
+HUN,High Income,4,Trade and Development Agency ,TDA,15
+IDN,Lower Middle Income,2,U.S. Agency for International Development ,USAID,17
+IND,Lower Middle Income,2,U.S. Agency for International Development ,USAID,17
+JAM,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+JOR,Upper Middle Income,3,Overseas Private Investment Corporation ,OPIC,14
+KAZ,Upper Middle Income,3,Department of Agriculture ,USDA,18
+KEN,Lower Middle Income,2,Department of Agriculture ,USDA,18
+KGZ,Lower Middle Income,2,U.S. Government ,USGOV,16
+KHM,Lower Middle Income,2,Department of Agriculture ,USDA,18
+LBN,Upper Middle Income,3,Overseas Private Investment Corporation ,OPIC,14
+LBR,Low Income,1,Department of Agriculture ,USDA,18
+LKA,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+LSO,Lower Middle Income,2,Department of Agriculture ,USDA,18
+MAR,Lower Middle Income,2,Department of Agriculture ,USDA,18
+MDA,Lower Middle Income,2,Department of Homeland Security ,DHS,10
+MDG,Low Income,1,U.S. Government ,USGOV,16
+MEX,Upper Middle Income,3,Department of Agriculture ,USDA,18
+MKD,Upper Middle Income,3,Department of Homeland Security ,DHS,10
+MLI,Low Income,1,Department of Agriculture ,USDA,18
+MNG,Lower Middle Income,2,U.S. Agency for International Development ,USAID,17
+MOZ,Low Income,1,U.S. Government ,USGOV,16
+MUS,Upper Middle Income,3,Department of Agriculture ,USDA,18
+MWI,Low Income,1,Department of Agriculture ,USDA,18
+MYS,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+NAM,Upper Middle Income,3,Department of Agriculture ,USDA,18
+NGA,Lower Middle Income,2,U.S. Government ,USGOV,16
+NIC,Lower Middle Income,2,U.S. Government ,USGOV,16
+NPL,Low Income,1,U.S. Government ,USGOV,16
+PAK,Lower Middle Income,2,U.S. Government ,USGOV,16
+PAN,High Income,4,Department of Agriculture ,USDA,18
+PER,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+PHL,Lower Middle Income,2,Trade and Development Agency ,TDA,15
+POL,High Income,4,Trade and Development Agency ,TDA,15
+PRY,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+PSE,Lower Middle Income,2,Department of Agriculture ,USDA,18
+ROU,Upper Middle Income,3,Department of Homeland Security ,DHS,10
+RUS,Upper Middle Income,3,Department of Agriculture ,USDA,18
+RWA,Low Income,1,Department of Agriculture ,USDA,18
+SEN,Lower Middle Income,2,Department of Agriculture ,USDA,18
+SLV,Lower Middle Income,2,U.S. Government ,USGOV,16
+SOM,Low Income,1,Department of Agriculture ,USDA,18
+SWZ,Lower Middle Income,2,Department of Agriculture ,USDA,18
+SYC,High Income,4,Department of Agriculture ,USDA,18
+TGO,Low Income,1,U.S. Government ,USGOV,16
+THA,Upper Middle Income,3,Environmental Protection Agency ,EPA,12
+TJK,Low Income,1,U.S. Government ,USGOV,16
+TKM,Upper Middle Income,3,U.S. Government ,USGOV,16
+TTO,High Income,4,Export-Import Bank of the United States ,EXIM,13
+TUN,Lower Middle Income,2,U.S. Government ,USGOV,16
+TUR,Upper Middle Income,3,Overseas Private Investment Corporation ,OPIC,14
+TZA,Low Income,1,U.S. Government ,USGOV,16
+UGA,Low Income,1,U.S. Government ,USGOV,16
+UKR,Lower Middle Income,2,U.S. Agency for International Development ,USAID,17
+URY,High Income,4,Trade and Development Agency ,TDA,15
+UZB,Lower Middle Income,2,Trade and Development Agency ,TDA,15
+VEN,Upper Middle Income,3,Overseas Private Investment Corporation ,OPIC,14
+VNM,Lower Middle Income,2,Trade and Development Agency ,TDA,15
+YEM,Low Income,1,U.S. Government ,USGOV,16
+ZAF,Upper Middle Income,3,U.S. Government ,USGOV,16
+ZMB,Lower Middle Income,2,U.S. Government ,USGOV,16
+ZWE,Lower Middle Income,2,U.S. Government ,USGOV,16
+ARE,High Income,4,U.S. Government ,USGOV,16
+AUS,High Income,4,U.S. Government ,USGOV,16
+BEL,High Income,4,Federal Trade Commission ,FTC,19
+AUT,High Income,4,U.S. Government ,USGOV,16
+BHR,High Income,4,U.S. Agency for International Development ,USAID,17
+CAN,High Income,4,U.S. Government ,USGOV,16
+CHE,High Income,4,U.S. Government ,USGOV,16
+BRN,High Income,4,Department of Homeland Security ,DHS,10
+DNK,High Income,4,U.S. Agency for International Development ,USAID,17
+ESP,High Income,4,Trade and Development Agency ,TDA,15
+FRA,High Income,4,Department of Commerce ,DOC,11
+DEU,High Income,4,Federal Trade Commission ,FTC,19
+FIN,High Income,4,Department of Agriculture ,USDA,18
+GBR,High Income,4,U.S. Agency for International Development ,USAID,17
+ISR,High Income,4,U.S. Agency for International Development ,USAID,17
+ITA,High Income,4,U.S. Government ,USGOV,16
+JPN,High Income,4,U.S. Government ,USGOV,16
+HKG,High Income,4,U.S. Agency for International Development ,USAID,17
+IRL,High Income,4,U.S. Government ,USGOV,16
+ISL,High Income,4,U.S. Government ,USGOV,16
+BMU,Upper Middle Income,3,Federal Trade Commission ,FTC,19
+BRB,Upper Middle Income,3,U.S. Government ,USGOV,16
+ASM,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+ATG,Upper Middle Income,3,U.S. Government ,USGOV,16
+BLZ,Upper Middle Income,3,U.S. Government ,USGOV,16
+GRC,Upper Middle Income,3,Department of Homeland Security ,DHS,10
+CYP,Upper Middle Income,3,U.S. Agency for International Development ,USAID,17
+CZE,Upper Middle Income,3,Trade and Development Agency ,TDA,15
+AFG,Low Income,1,Department of Commerce ,DOC,11
+BDI,Low Income,1,Federal Trade Commission ,FTC,19
+BFA,Low Income,1,Department of Agriculture ,USDA,18
+CAF,Low Income,1,U.S. Agency for International Development ,USAID,17
+COG,Low Income,1,U.S. Agency for International Development ,USAID,17
+DZA,Low Income,1,U.S. Government ,USGOV,16
+DJI,Low Income,1,U.S. Government ,USGOV,16
+CPV,Low Income,1,U.S. Agency for International Development ,USAID,17
+GAB,Low Income,1,U.S. Government ,USGOV,16
+GMB,Low Income,1,U.S. Government ,USGOV,16
+GNB,Low Income,1,Federal Trade Commission ,FTC,19
+GNQ,Low Income,1,U.S. Government ,USGOV,16
+IRN,Low Income,1,U.S. Agency for International Development ,USAID,17
+IRQ,Low Income,1,U.S. Government ,USGOV,16
+ABW,Lower Middle Income,2,U.S. Government ,USGOV,16
+AIA,Lower Middle Income,2,Department of Homeland Security ,DHS,10
+AND,Lower Middle Income,2,U.S. Agency for International Development ,USAID,17
+BHS,Lower Middle Income,2,Trade and Development Agency ,TDA,15
+BLR,Lower Middle Income,2,Department of Commerce ,DOC,11
