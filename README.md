@@ -14,12 +14,14 @@ Raw data Retrieval:
 
 4. U.S. Trade Data from the United States Agency for International Development retrieved from a free API (https://data.usaid.gov/resource/i37f-rwxd.json) obtained from https://dev.socrata.com/foundry/data.usaid.gov/i37f-rwxd
 
-5. We created a Python file (Foreign_Aid_API.ipynb) in which we used the API to retrieve the U.S. Trade Data and exported the data as a .csv file that we named "foreign_aid_2020_aggregated.csv" and saved in the StarterFiles folder. 
+5. We created a Python file (Foreign_Aid_API.ipynb) in which we used the API to retrieve the U.S. Trade Data and exported the data as a .csv file that we named "foreign_aid_2020_aggregated.csv" and saved it in the StarterFiles folder.
+
+6. We cleaned all three files to remove missing data and ensure uniformity and saved them respectively as "COVID.csv", "Gender.csv", and "Trade.csv" in the same folder. 
 
 
 Data Preparation:
 
-1. We cleaned 
+1. We used SQL to merge all three files into one main file named "..." and saved in the main repository 
 
 
 
