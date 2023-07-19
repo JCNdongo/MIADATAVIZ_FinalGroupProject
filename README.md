@@ -4,13 +4,13 @@ Final Group Project: COVID, Gender &amp; Foreign Aid
 Objective & Research Questions:
 
 
-Raw data Retrieval: 
+Raw data Retrieval (2020)
 
-1. We created a StarterFiles folder for our raw data. 
+1. We created a StarterFiles folder for our raw data and retrieved the following for the year 2020:
 
 2. COVID Data from Our World in Data downloaded in a .csv format from https://ourworldindata.org/covid-vaccinations. Retrieved data was saved as "COVID_OurWorldDataset.csv" in the StarterFiles folder.
 
-3. Gender Data from the World Bank downloaded in a .csv format from https://genderdata.worldbank.org/#countries. Retrieved data was saved as "WorldBankGenderData2022" in the StarterFiles folder. 
+3. Gender Data from the World Bank downloaded in a .csv format from https://genderdata.worldbank.org/#countries. Retrieved data was saved as "WorldBankGenderData2020" in the StarterFiles folder. 
 
 4. U.S. Trade Data from the United States Agency for International Development retrieved from a free API (https://data.usaid.gov/resource/i37f-rwxd.json) obtained from https://dev.socrata.com/foundry/data.usaid.gov/i37f-rwxd
 
