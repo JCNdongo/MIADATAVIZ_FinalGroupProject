@@ -16,12 +16,17 @@ Raw data Retrieval (2020)
 
 5. We created a Python file (Foreign_Aid_API.ipynb) in which we used the API to retrieve the U.S. Trade Data and exported the data as a .csv file that we named "foreign_aid_2020_aggregated.csv" and saved it in the StarterFiles folder.
 
-6. We cleaned all three files to remove missing data and ensure uniformity and saved them respectively as "COVID.csv", "Gender.csv", and "Trade.csv" in a different folder named "CleanData". 
 
 
 Data Preparation:
 
-1. We used SQL to merge all three files into one main file named "..." and saved in the main repository 
+1. We cleaned all three files to remove missing data and ensure uniformity and saved them respectively as "COVID.csv", "Gender.csv", and "Trade.csv" in a different folder named "CleanData".
+  
+2. Using QuickDBD and PgAdmin4, we coded a SQL script (COVID_FinalProject_SQL_Code) to merge all three files into one main csv file named "COVID_FinalProject.csv" which we saved in the"CleanData" folder.
+
+![COVID_FinalProject_SQL_Diagram](https://github.com/JCNdongo/MIADATAVIZ_FinalGroupProject/assets/120480912/e85d235c-279a-4ef0-9000-894018998ee3)
+
+4. We retrieved the "COVID_FinalProject.csv" main file in Python
 
 
 
