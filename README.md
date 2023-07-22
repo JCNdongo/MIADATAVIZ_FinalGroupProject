@@ -6,7 +6,7 @@ The pandemic greatly impacted society in a lot of ways, causing millions of deat
 
 1. While illnesses resulting from the Coronavirus caused many deaths, how may socioeconomic factors have contributed to those fatalities, such as income, population, vaccination rates, age, etc...?
 
-2. Unfortunately, due to lockdowns during the pandemic, cases of domestic violence increased worldwide, with women making up the majority of the victims (Mineo, 2022; unwomen.org). 
+2. Unfortunately, due to lockdowns during the pandemic, cases of domestic violence increased worldwide, with women making up the majority of the victims (Mineo, 2022; unwomen.org). Could we predict some improvments on gender equality post-pandemic?
 
 For this project, we used supervised learning to address our first question and analyze the impact of some socioeconomic factors on COVID deaths worldwide, and unsupervised learning for our second question as we predicted the impact of the pandemic on gender equality through divorce and employment. 
 
