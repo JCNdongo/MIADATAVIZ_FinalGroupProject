@@ -14,7 +14,7 @@ For this project, we used supervised learning to address our first question and 
 ## Tools Used: ##
 API, SQL, Python Pandas, Machine Learning, Tableau
 
-## Raw data Retrieval: ## 
+## Raw Data Retrieval: ## 
 
 1. We created a StarterFiles folder for our raw data and retrieved the following for the year 2020:
 
@@ -45,11 +45,11 @@ API, SQL, Python Pandas, Machine Learning, Tableau
 
 We applied machine learning techniques to the "COVID_FinalProject.csv" file and created models to forecast the impact of COVID on gender equality after the pandemic. Our areas of prediction were on:
 
-1. Women having an equal choice to divorce as men: Our analysis and results are documented in the file "ML_GenderEQ_Divorce.ipynb" file. Our model predicted women's ability to initiate divorce equally post-pandemic with a accuracy rate. 
+1. Women having an equal choice to divorce as men: Our analysis and results are documented in the file "ML_GenderEQ_Divorce.ipynb" file. Our model predicted women's ability to initiate divorce equally post-pandemic with a 85% accuracy rate. 
 
-2. Women having equal access to jobs compared to men: Our analysis and results are documented in the file "ML_GenderEQ_Job.ipynb" file. Our model predicted women's ability to get a job equitably post-pandemic with a accuracy rate. 
+2. Women having equal access to jobs compared to men: Our analysis and results are documented in the file "ML_GenderEQ_Job.ipynb" file. Our model predicted women's ability to get a job equitably post-pandemic with a 48% accuracy rate. 
 
-3. Women having equal access to DANGEROUS jobs compared to men: Our analysis and results are documented in the file "ML_GenderEQ_DangerousJobs.ipynb" file. Our model predicted women's ability to get a DANGEROUS job equitably post-pandemic with a accuracy rate. 
+3. Women having equal access to DANGEROUS jobs compared to men: Our analysis and results are documented in the file "ML_GenderEQ_DangerousJobs.ipynb" file. Our model predicted women's ability to get a DANGEROUS job equitably post-pandemic with a 54% accuracy rate. 
 
 
 ## References: ##
