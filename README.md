@@ -8,9 +8,11 @@ The pandemic greatly impacted society in a lot of ways, causing millions of deat
 
 2. Unfortunately, due to lockdowns during the pandemic, cases of domestic violence increased worldwide, with women making up the majority of the victims (Mineo, 2022; unwomen.org). 
 
+For this project, we used supervised learning to address our first question and analyze the impact of some socioeconomic factors on COVID deaths worldwide, and unsupervised learning for our second question as we predicted the impact of the pandemic on gender equality through divorce and employment. 
 
-For this project, we used supervised learning to address our first question and analyze the impact of some socioeconomic factors on COVID deaths worldwide, and unsupervised learning for our second question and predict the impact of the pandemic on gender equality.
 
+## Tools Used: ##
+API, SQL, Python Pandas, Machine Learning, Tableau
 
 ## Raw data Retrieval: ## 
 
@@ -51,6 +53,12 @@ We applied machine learning techniques to the "COVID_FinalProject.csv" file and 
 
 
 ## References: ##
+
+COVID Data. Our World in Data. Retrieved from https://ourworldindata.org/covid-vaccinations
+
+Foreign Aid/Trade API Data. The United States Agency for International Development. Retrieved from https://dev.socrata.com/foundry/data.usaid.gov/i37f-rwxd
+
+Gender Data. World Bank Group. Retrieved from https://genderdata.worldbank.org/#countries
 
 Mineo, L. (2022, June 29). 'Shadow pandemic' of domestic violence. National & World Affairs. The Harvard Gazette. Retrieved from https://news.harvard.edu/gazette/story/2022/06/shadow-pandemic-of-domestic-violence/
 
