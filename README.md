@@ -4,7 +4,7 @@
 
 The pandemic greatly impacted society in a lot of ways, causing millions of deaths and exacerbating some societal ills and inequalities.  Our analysis is based on data from 2020 only, and our research questions are the following:
 
-1. While COVID caused many deaths, how may socioeconomic factors have impacted the number of deaths, such as income, population, vaccination rates, age, etc...?
+1. While illnesses resulting from the Coronavirus caused many deaths, how may socioeconomic factors have contributed to those fatalities, such as income, population, vaccination rates, age, etc...?
 
 2. Unfortunately, due to lockdowns during the pandemic, cases of domestic violence increased worldwide, with women making up the majority of the victims (Mineo, 2022; unwomen.org). 
 
