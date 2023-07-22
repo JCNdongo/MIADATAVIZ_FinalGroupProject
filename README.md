@@ -1,5 +1,4 @@
-# MIADATAVIZ_FinalGroupProject
-#Final Group Project: The impact of COVID on society#
+# Final Group Project: The impact of COVID on society #
 
 ## Objective & Research Questions: ##
 
@@ -51,8 +50,7 @@ We applied machine learning techniques to the "COVID_FinalProject.csv" file and 
 3. Women having equal access to DANGEROUS jobs compared to men: Our analysis and results are documented in the file "ML_GenderEQ_DangerousJobs.ipynb" file. Our model predicted women's ability to get a DANGEROUS job equitably post-pandemic with a accuracy rate. 
 
 
-
-References:
+## References: ##
 
 Mineo, L. (2022, June 29). 'Shadow pandemic' of domestic violence. National & World Affairs. The Harvard Gazette. Retrieved from https://news.harvard.edu/gazette/story/2022/06/shadow-pandemic-of-domestic-violence/
 
