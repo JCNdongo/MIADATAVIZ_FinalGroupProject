@@ -38,7 +38,15 @@ API, SQL, Python Pandas, Machine Learning, Tableau
 
 ## Data Analysis 1: Supervised Learning: ##
 
-1. We retrieved the "COVID_FinalProject.csv" main file in Python
+We retrieved the "COVID_FinalProject.csv" main file in Python, and applied supervised machine learning to do the following predictions and comparisons: 
+
+1. Three Independent Factors: The code used supervised machine learning, specifically multivariate linear regression, to create models that predict vaccination percentage and positive cases ration based on certain information about COVID-19. It then evaluates the accuracy of these models. It looks at the relationships between total deaths, and its dependency on Median Age, Life Expectancy, and GDPs of countries.
+
+2. Total Deaths: This code uses a k-Nearest Neighbors (k-NN) algorithm to predict the total number of deaths from COVID-19 in different countries. It does this by looking at two factors: the country’s population and the total number of COVID-19 cases. The code then calculates how accurate the predictions are and creates a scatter plot to visualize the predicted values compared to the actual death rates. By comparing the positions of the blue and red dots, we can see how well the model’s predictions match the actual data. If the dots are close to the diagonal line, it means the model’s predictions are accurate.
+
+3. Vaccinated vs. Unvaccinated: In this code, we are looking at how COVID-19 vaccination rates (percentage of vaccinated and not vaccinated people) are related to the total number of deaths in different countries. We use regression models to make predictions on the number of deaths based on vaccination rates, and then create scatter plots to visualize how well the predictions match the actual data points. This helps us understand if there is any connection between vaccination rates and the number of COVID-19 deaths.
+
+4. Covid Cases & GDP per Capita: In this code, we are trying to understand if there is a relationship between a country's GDP per capita and the total number of COVID-19 cases it has. We use a linear regression model to find the best-fitting line that connects GDP per capita to COVID-19 cases, and then we plot the actual data points and the line to see if there is any connection between the two.
 
 
 ## Data Analysis 2: Unsupervised learning ## 
