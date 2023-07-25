@@ -12,7 +12,7 @@ For this project, we used supervised learning to address our first question and 
 
 
 ## Tools Used: ##
-API, SQL, Python Pandas, Machine Learning, Tableau
+API, SQL, Python Pandas, Machine Learning
 
 ## Raw Data Retrieval: ## 
 
